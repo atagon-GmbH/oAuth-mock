@@ -1,0 +1,24 @@
+{
+  "name": "oauth-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "../oauth-mock-server/node_modules/.bin/vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "express": "^5.2.1",
+    "oauth2-mock-server": "^8.2.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.2.2",
+    "vitest": "^4.0.17"
+  }
+}

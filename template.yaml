@@ -1,0 +1,9 @@
+Version: '2.3'
+Cluster: cloud.atagon.com
+Resources:
+  auth-mock:
+    Runtime: nodejs22.x
+    Source: ./
+    StartFile: index.js
+    HttpPort: 8080
+    ExposedPorts: [ 8080 ]
