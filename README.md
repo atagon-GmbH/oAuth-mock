@@ -10,10 +10,10 @@ Stop mocking endpoints manually in every project. Point your auth client here an
 
 ## Quick Look
 
-- ** Instant Usage:** Available publicly at `https://oauth.kogiqa.com`. No install required.
-- ** Multi-Persona:** Automatically switches user profiles based on the provider (Google, GitHub, etc.).
-- ** Dynamic Overrides:** Need a specific email for a test case? Just pass it in the query string.
-- ** Full OIDC Compliance:** Supports `.well-known/openid-configuration`, `jwks`, and standard flows. Also includes `userInfoUrl` in OIDC config for compatibility with various client libraries.
+- **Instant Usage:** Available publicly at `https://oauth.kogiqa.com`. No install required.
+- **Multi-Persona:** Automatically switches user profiles based on the provider (Google, GitHub, etc.).
+- **Dynamic Overrides:** Need a specific email for a test case? Just pass it in the query string.
+- **Full OIDC Compliance:** Supports `.well-known/openid-configuration`, `jwks`, and standard flows. Also includes `userInfoUrl` in OIDC config for compatibility with various client libraries.
 
 ##  Getting Started
 
