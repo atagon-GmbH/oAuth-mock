@@ -109,6 +109,5 @@ Here is how a standard authorization code flow looks using this server:
     ```
 
 
-[![Sponsored by kogiQA.com](https://kogiqa.com/logo.png)](https://kogiQA.com)
+[Sponsored by kogiQA.com](https://kogiQA.com)
 
-```
