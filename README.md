@@ -6,8 +6,6 @@ Built on top of the robust [oauth2-mock-server](https://github.com/axa-group/oau
 
 Stop mocking endpoints manually in every project. Point your auth client here and get back to building.
 
----
-
 ## Quick Look
 
 - **Instant Usage:** Available publicly at `https://oauth.kogiqa.com`. No install required.
